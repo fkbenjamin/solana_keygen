@@ -18,4 +18,4 @@ If you want to recover a Keypair from an existing mnemonic, simply run
 go run main.go -r
 ````
 
-It will create a keypair.json named after the address of the recovered key.
+It will ask you to enter your mnemonic and create a keypair.json named after the address of the recovered key.
